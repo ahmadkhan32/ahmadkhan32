@@ -1,0 +1,14 @@
+GITHUB PROFILE README PACKAGE
+
+1. Create a PUBLIC GitHub repository named exactly: ahmadkhan32
+2. Upload README.md to the repository root.
+3. Upload the entire assets folder, preserving its folder structure.
+4. Commit the files.
+5. Open https://github.com/ahmadkhan32 to view your profile.
+
+The README references the banner and project images using relative paths.
+Technology logos and GitHub statistics are loaded from external image services.
+Project preview images are illustrative placeholders; replace them with real
+screenshots of your own applications when available.
+
+Only retain skills and project claims that accurately describe your experience.
